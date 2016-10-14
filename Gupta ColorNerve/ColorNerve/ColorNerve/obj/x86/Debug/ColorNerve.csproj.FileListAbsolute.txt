@@ -1,0 +1,12 @@
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.csprojResolveAssemblyReference.cache
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\bin\x86\Debug\ColorNerve.exe
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\bin\x86\Debug\ColorNerve.pdb
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.exe
+C:\Users\rgupta\Desktop\ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.pdb
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\bin\x86\Debug\ColorNerve.exe
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\bin\x86\Debug\ColorNerve.pdb
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.csprojResolveAssemblyReference.cache
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.exe
+F:\Gupta ColorNerve\ColorNerve\ColorNerve\obj\x86\Debug\ColorNerve.pdb

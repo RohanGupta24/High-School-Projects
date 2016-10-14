@@ -1,0 +1,8 @@
+NOUN::= ANIMAL | HUMAN
+ANIMAL::= DESERT | TROPICAL | DOMESTICATED
+DESERT::= lion | tiger | buffalo | zebra | giraffe | elephant | camel | gazelle | antelope | ostrich | scorpion | cheetah | fox | hedgehog | baboon | mongoose | hyena | rhino | jackal | anteater | aardvark | porcupine | vulture | hare | beetle | mosquito
+TROPICAL::= owl | black bear | armadillo | bat | ant | anaconda | python | bearded dragon | bongo | centipede | caterpillar | butterfly | cardinal | leopard | panther | cricket | deer | cougar | cobra | gorilla | hawk | falcon | jaguar | gecko | frog| toad | ladybug | orangutan | rabbit | racoon | pheasant | peacock | worm | turtle
+DOMESTICATED::= pig | goat | horse | sheep | llama | duck | goose | turkey | chicken | cow | donkey | alpaca | dog | cat | guinea pig | fish | pigeon | mouse | rat
+HUMAN::=PROPERNOUN | ADJECTIVE
+ADJECTIVE::= short | tall | small | large | fat | thin | colored | white | strong | weak | beautiful | ugly | active | lazy | smart | stupid
+PROPERNOUN::= Tyler | Trevor | Rohan | Pranav | Max | Nick | Simon | Sarah | Chris | Kevin | Brian | John | George | Jason | David | Michael | Paul | Mark | Daniel | Steve | Peter | Jack | Mary | Lisa | Karen | Elizabeth | Jennifer | Nancy | Sophie | Emma | Emily | Ellen | Natalie | Hannah | Grace | Anna | Zoe | Ashley | Julia
